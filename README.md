@@ -5,7 +5,7 @@ A RNN machine learning project to write a book
 By giving a book or a text file, like a math book, the idea is to learn from it, and then ask the ML to write its own book, based on the style learned from the given book
 
 # Results
-We have excellent results, with consistent chapters written by our ML.
+We have got excellent results, with consistent chapters written by our ML.
 
 # Conceptions of RNN
   * It's a supervised Machine Learning
